@@ -2,6 +2,7 @@ Delphi4Android
 ==============
 
 Sneak Preview #1: http://lenniedevilliers.blogspot.com/2010/09/delphi-for-android-sneak-preview.html
+
 Sneak Preview #2: http://lenniedevilliers.blogspot.com/2010/09/delphi-for-android-sneak-preview-2.html
 
 Originally was hosted on: https://code.google.com/p/delphidroid/
